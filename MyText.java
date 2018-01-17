@@ -5,6 +5,7 @@ public class MyText{
 		
 		System.out.println("这只是二个测试类!!");
 		
+		System.out.println("这只是san个测试类!!");
 	}
 	
 }
